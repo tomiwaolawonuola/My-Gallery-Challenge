@@ -212,21 +212,21 @@ body{
         width: 100%;
         height: 50vh;
         display: flex;
-        gap: 1rem;
+        gap: auto;
         justify-content: center;
         align-items: center;
     }
     
     .first-pic img{
         position: relative;
-        width: 160px;
+        width: auto;
         height: 140px;
         border-radius: 10px;
     }
     
     .second-pic img{
         position: relative;
-        width: 230px;
+        width: auto;
         height: 140px;
         border-radius: 10px;
     }
