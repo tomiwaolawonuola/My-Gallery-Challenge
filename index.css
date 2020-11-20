@@ -221,17 +221,11 @@ body{
 }
 
 
-.irst-pic{
+.first-pic{
     margin: 1rem;
 }
     
-
-
-
-
-
-
-    .first-pic img{
+.first-pic img{
         margin: 1rem;
         position: relative;
         width: 90%;
@@ -239,7 +233,7 @@ body{
         border-radius: 10px;
     }
     
-    .second-pic img{
+.second-pic img{
         position: relative;
         width: 80%;
         height: 140px;
