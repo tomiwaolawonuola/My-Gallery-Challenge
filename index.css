@@ -200,6 +200,12 @@ body{
         left: 6px;
     }
     
+    .stat p{
+        padding-right: 12px;
+    }
+
+
+
     .first-gallery-container{
         position: relative;
         top: -19rem;
