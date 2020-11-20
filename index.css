@@ -219,14 +219,14 @@ body{
     
     .first-pic img{
         position: relative;
-        width: 180px;
+        width: 160px;
         height: 140px;
         border-radius: 10px;
     }
     
     .second-pic img{
         position: relative;
-        width: 250px;
+        width: 230px;
         height: 140px;
         border-radius: 10px;
     }
