@@ -226,7 +226,7 @@ body{
     
     .second-pic img{
         position: relative;
-        width: auto;
+        width: 10px;
         height: 140px;
         border-radius: 10px;
     }
