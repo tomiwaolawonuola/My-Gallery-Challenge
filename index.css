@@ -174,7 +174,7 @@ body{
     }
     
     .profile{
-        left: .5rem;
+        left: 0rem;
     }
 
 
@@ -182,9 +182,10 @@ body{
         position: relative;
         top: -15rem;
         width: 80%;
-        left: 4rem;
-        
+        left: 2.5rem;
     }
+
+
     
     .stat{
         height: 70px;
@@ -199,6 +200,7 @@ body{
         position: relative;
         left: 6px;
     }
+    
     
     .stat p{
         padding-right: 12px;
@@ -215,18 +217,20 @@ body{
         gap: auto;
         justify-content: center;
         align-items: center;
+        margin: 1rem;
     }
     
     .first-pic img{
+        margin: 1rem;
         position: relative;
-        width: auto;
+        width: 90%;
         height: 140px;
         border-radius: 10px;
     }
     
     .second-pic img{
         position: relative;
-        width: 10px;
+        width: 80%;
         height: 140px;
         border-radius: 10px;
     }
