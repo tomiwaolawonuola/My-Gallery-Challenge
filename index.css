@@ -207,19 +207,30 @@ body{
         padding-left: 12px;
     }
 
-
+ 
 
     .first-gallery-container{
         top: -18rem;
         width: 100%;
         height: 50vh;
         display: flex;
-        gap: auto;
         justify-content: center;
         align-items: center;
         margin: 1rem;
-    }
     
+}
+
+
+.irst-pic{
+    margin: 1rem;
+}
+    
+
+
+
+
+
+
     .first-pic img{
         margin: 1rem;
         position: relative;
